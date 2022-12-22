@@ -96,6 +96,7 @@ if (motor.errorStatus=="+" ){
 
 	motor.speed++;
 	motor.speed++;
+	motor.speed++;
 
 
 
