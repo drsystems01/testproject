@@ -97,6 +97,8 @@ if (motor.errorStatus=="+" ){
 	motor.speed++;
 	motor.speed++;
 	motor.speed++;
+	motor.speed++;
+	motor.speed++; // 5 USE FOR TEST WORKING GITHUB
 
 
 
